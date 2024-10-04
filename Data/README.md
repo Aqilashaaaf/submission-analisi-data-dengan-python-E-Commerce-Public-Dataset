@@ -1,1 +1,0 @@
-# submission-analisi-data-dengan-python-E-Commerce-Public-Dataset
